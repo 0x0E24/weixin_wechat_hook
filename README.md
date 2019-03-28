@@ -1,8 +1,9 @@
 # weixin_wechat_hook
+<br/>
 NET C＃微信个人号HOOK 基于微信2.6.7版本全接口微信机器人<br/>
 c# NET4.5 vs2015编译 <br/>
 稳定性不用担心，已经投入项目中使用。<br/>
-嗯~不用做太多介绍了。已经写好demo，具体功能项看软件界面，大致就能了解。
+嗯~不用做太多介绍了。已经写好demo，具体功能项看软件界面，大致就能了解。<br/><br/>
 <img src="http://wx4.sinaimg.cn/large/0060lm7Tly1g1ik5bwbvtj30p20dc0tv.jpg" >
 <img src="http://wx2.sinaimg.cn/large/0060lm7Tly1g1ik5phrnyj30p20dcjse.jpg" >
 <h3>方法接口</h3>
