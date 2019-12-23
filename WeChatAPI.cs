@@ -292,13 +292,6 @@ namespace WxRobot
 			Socket_Send(Client,mJson.ToString());	
 		}
 		
-		public void DownLoadPic(int Client, string picXML, string picFile)
-		{
-			JObject mJson = new JObject();
-			mJson["packtype"] = 27;
-			mJson["pic"] = picXML;
-			mJson["file"] = picFile;
-			Socket_Send(Client,mJson.ToString());	
-		}
+		
 	}
 }
